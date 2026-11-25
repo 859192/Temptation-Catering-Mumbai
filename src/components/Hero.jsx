@@ -18,9 +18,9 @@ export default function Hero() {
         {/* Updated Badge with logo.jpeg */}
         <div className="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full glass-card border-amber-500/30 text-amber-400 text-xs sm:text-sm font-semibold tracking-wide uppercase mb-6">
           <img 
-            src="image/logo.jpeg" 
+            src={`${import.meta.env.BASE_URL}image/logo.jpeg`} 
             alt="Logo" 
-            className="w-5 h-5 rounded-full object-cover border border-amber-500/50" 
+            className="w-5 h-5 rounded-full object-cover border border-amber-500/50"  
           />
           <span>Temptation Catering Mumbai</span>
         </div>

@@ -20,10 +20,9 @@ export default function Navbar() {
           <a href="#home" className="flex items-center gap-3 group">
             {/* Image Logo */}
             <div className="w-10 h-10 rounded-full overflow-hidden border border-amber-500/40 shadow-lg shadow-amber-500/20 group-hover:scale-105 transition-transform bg-slate-900">
-              <img 
-                src="image/logo.jpeg" 
-                alt="Temptation Catering Logo" 
-                className="w-full h-full object-cover"
+              <img
+                src={`${import.meta.env.BASE_URL}image/logo.jpeg`}
+                alt="Temptation Catering Mumbai"
               />
             </div>
             <div className="flex flex-col">

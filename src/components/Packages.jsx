@@ -5,7 +5,7 @@ export default function Packages() {
   const [activeTab, setActiveTab] = useState('veg');
 
   const vegPackages = [
-    { title: "Small Gathering", price: "₹3,200 – ₹5,000", pax: "8–10 People", items: "4–5 Items", includes: ["Pasta (Red/White) 🍝", "Garlic Bread", "Veg Nuggets / Smiley", "Sandwich / Bruschetta", "Brownie / Gulab Jamun"], note: "Perfect for cozy house parties & movie nights" },
+    { title: "Small Gathering", price: "₹5,000 – ₹7,000", pax: "8–10 People", items: "4–5 Items", includes: ["Pasta (Red/White) 🍝", "Garlic Bread", "Veg Nuggets / Smiley", "Sandwich / Bruschetta", "Brownie / Gulab Jamun"], note: "Perfect for cozy house parties & movie nights" },
     { title: "Classic House Party", price: "₹7,000 – ₹10,000", pax: "12–15 People", items: "6–7 Items", badge: "Most Popular", includes: ["Hakka Noodles / Fried Rice 🍜", "Veg Manchurian", "Mini Pizza 🍕", "Paneer Tikka / Roll 🌯", "Fries 🍟 & Sandwich", "Brownie / Gulab Jamun"], note: "Complete mix of Indian, Chinese & Snacks" },
     { title: "Premium Party Setup", price: "₹10,000 – ₹15,000", pax: "15–20 People", items: "8–9 Items", includes: ["Paneer Biryani + Raita 🍛", "Pasta & Noodles/Fried Rice", "Manchurian & Paneer Tikka", "Mini Burger 🍔 & Fries", "Garlic Bread & Dessert"], note: "Comprehensive menu spread for larger crowds" },
     { title: "Celebration Special", price: "₹20,000 – ₹25,000", pax: "20–25 People", items: "10+ Items", includes: ["Paneer Biryani 🍛", "Chole / Rajma Poori", "Noodles + Manchurian & Pasta", "Paneer Tikka & Mini Pizza", "Sandwich, Fries & 2 Desserts"], note: "Full festive spread — no extra ordering needed" },

@@ -9,7 +9,7 @@ export default function Footer() {
           <p className="text-xs text-slate-500 mt-0.5">Owner: Monica Verma | Manager: Manish (8591928869)</p>
         </div>
         <div className="text-xs text-slate-400">
-          Crafted with ❤️ in Mumbai • Copyright © 2026-27 All Rights Reserved
+          Crafted with ❤️ in Mumbai • Copyright © 2027-28 All Rights Reserved
         </div>
         <div className="text-xs text-amber-400 font-medium">
           Built with Manish
