@@ -14,7 +14,7 @@ export default function About() {
 
               <img
                 src={`${import.meta.env.BASE_URL}image/profile1.jpeg`}
-                alt="Monica Verma"
+                alt="Monica Sinha"
                 className="w-full h-[100%] object-cover object-[center_30%] rounded-xl"
               />
 
@@ -30,7 +30,7 @@ export default function About() {
 
               <div>
                 <h4 className="text-white font-bold">
-                  Monica Verma
+                  Monica Sinha
                 </h4>
 
                 <p className="text-xs text-amber-400">
@@ -56,7 +56,7 @@ export default function About() {
             <p className="text-slate-300 leading-relaxed">
               Founded by{' '}
               <strong className="text-white">
-                Monica Verma
+                Monica Sinha
               </strong>
               , Temptation Catering Mumbai brings custom menus, high hygiene standards, and exceptional flavors to weddings, corporate events, and house parties.
             </p>
@@ -66,7 +66,7 @@ export default function About() {
               <div className="flex items-center gap-3">
 
                 <div className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center text-amber-400 font-bold border border-slate-700">
-                  MV
+                  MS
                 </div>
 
                 <div>
