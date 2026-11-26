@@ -2,7 +2,7 @@
 
 > **Luxury Culinary Experiences & Event Catering Services in Mumbai**
 
-A modern, responsive, high-performance web application built with **React 19**, **Vite**, and **Tailwind CSS v4** for **Temptation Catering Mumbai** (founded by Monica Verma). The platform showcases party packages, signature cuisines, live customer Google reviews, interactive menus, and direct WhatsApp booking flows.
+A modern, responsive, high-performance web application built with **React 19**, **Vite**, and **Tailwind CSS v4** for **Temptation Catering Mumbai** (founded by Monica Sinha). The platform showcases party packages, signature cuisines, live customer Google reviews, interactive menus, and direct WhatsApp booking flows.
 
 ---
 
